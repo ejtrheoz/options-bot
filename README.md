@@ -1,0 +1,1 @@
+Rating and trading bots for cryptocurrency futures trades
